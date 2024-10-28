@@ -1,2 +1,2 @@
 # demo
-is goo to see you brother
+is good to see you brother
