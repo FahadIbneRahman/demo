@@ -1,2 +1,2 @@
-# demo
+# Diabetics Prediction Using Ml Classifires
 Project
